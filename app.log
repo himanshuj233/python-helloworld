@@ -11,3 +11,8 @@ INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 18:48:46] "GET /metrics HTTP/1.1" 200 -
 INFO:app:Main request Succesfull
 INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 18:49:17] "GET / HTTP/1.1" 200 -
 INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 18:49:21] "GET /dss HTTP/1.1" 404 -
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:app:Main request Succesfull
+INFO:werkzeug:127.0.0.1 - - [23/Jul/2021 11:29:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Jul/2021 11:29:23] "GET /favicon.ico HTTP/1.1" 404 -
