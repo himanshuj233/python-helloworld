@@ -1,0 +1,13 @@
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://0.0.0.0:5000/ (Press CTRL+C to quit)
+INFO:app:Main request Succesfull
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 18:48:11] "GET / HTTP/1.1" 200 -
+INFO:app:Status request Successfull
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 18:48:36] "GET /status HTTP/1.1" 200 -
+INFO:app:Main request Succesfull
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 18:48:41] "GET / HTTP/1.1" 200 -
+INFO:app:Metrics Request Succesfull
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 18:48:46] "GET /metrics HTTP/1.1" 200 -
+INFO:app:Main request Succesfull
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 18:49:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Jun/2021 18:49:21] "GET /dss HTTP/1.1" 404 -
